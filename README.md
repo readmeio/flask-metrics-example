@@ -6,9 +6,12 @@ A tiny Flask app for testing API Metrics.
 
 [![](https://d3vv6lp55qjaqc.cloudfront.net/items/1M3C3j0I0s0j3T362344/Untitled-2.png)](https://readme.io)
 
-> Disclaimer: My Python knowledge is abysmal so apologies in advance. This is assuming you're running macOS and that running `python3` works for you..
+> Disclaimer: My Python knowledge is abysmal so apologies in advance. This is assuming you're running macOS and that you're able to run the command `python3` in your terminal.
 
-## Setup and Installation (Mostly Stolen From [the Flask docs](https://flask.palletsprojects.com/en/1.1.x/installation/))
+## Setup and Installation
+
+> Mostly stolen from [the Flask docs](https://flask.palletsprojects.com/en/1.1.x/installation/)
+
 Clone this repository! Once inside it, run the following to set up and activate your virtual environment and install your dependencies:
 ```
 $ python3 -m venv venv
