@@ -4,7 +4,7 @@ A tiny Flask app for testing API Metrics.
 
 [![PyPi](https://img.shields.io/pypi/v/readme-metrics)](https://pypi.org/project/readme-metrics/)
 
-[![](https://d3vv6lp55qjaqc.cloudfront.net/items/1M3C3j0I0s0j3T362344/Untitled-2.png)](https://readme.io)
+[![](https://raw.githubusercontent.com/readmeio/.github/main/oss-header.png)](https://readme.io)
 
 > Disclaimer: My Python knowledge is abysmal so apologies in advance. This is assuming you're running macOS and that you're able to run the command `python3` in your terminal.
 
